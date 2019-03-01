@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.coffee.main.DrinkTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-02-26T00:51:03" hostname="Ramiz" time="0.094">
+  <properties/>
+  <testcase name="listAllDrinksTest" classname="com.coffee.main.DrinkTest" time="0.094"/>
+  <testcase name="listIngridentsTest" classname="com.coffee.main.DrinkTest" time="0.0"/>
+  <testcase name="listPriceTest" classname="com.coffee.main.DrinkTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
